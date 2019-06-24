@@ -51,5 +51,15 @@
   "footer.regulation.hk": "TransferWise Ltd is licensed in Hong Kong as a Money Service Operator by the Customs and Excise Department, licence number: 15-01-01584.",
   "footer.registration": "© TransferWise Ltd {{year}}",
   "footer.registration.us": "© TransferWise Inc {{year}}",
-  "footer.registration.ca": "© TransferWise Canada Inc. {{year}}"
+  "footer.registration.ca": "© TransferWise Canada Inc. {{year}}",
+
+
+  "public-navigation.payments": "Payments",
+  "public-navigation.payments.upcoming": "Upcoming payments",
+  "public-navigation.payments.past": "Past payments",
+  "public-navigation.payments.plans": "Payment plans",
+  "public-navigation.payments.now": "Pay now",
+
+  "public-navigation.account": "Account",
+  "public-navigation.universities": "Universities"
 }
